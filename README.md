@@ -8,9 +8,7 @@
 
 - 后缀名为.pdf是latex编译执行完后生成的pdf
 
-生成的效果图如下：
-
-![](README/template_view.png)
+- 生成的效果图见template_view.png
 
 ### 补充
 
